@@ -150,7 +150,7 @@ Estimated combined lifting capacity:
 |Silver Conductive Glue|£5.83|[Amazon](https://www.amazon.co.uk/Silver-Conductive-Repair-Electronic-Circuit/dp/B0D3F4T8QW/ref=asc_df_B0D3F4T8QW?mcid=fb607c22ffcf30f8b439747b82d738ef&tag=googshopuk-21&linkCode=df0&hvadid=784821928493&hvpos=&hvnetw=g&hvrand=17510825728016960800&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045084&hvtargid=pla-2461337263852&psc=1&hvocijid=17510825728016960800-B0D3F4T8QW-&hvexpln=0&gad_source=1)|
 
 
-
+Final total: £81.33
 ---
 
 # CAD Design
