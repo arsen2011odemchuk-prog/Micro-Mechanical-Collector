@@ -34,8 +34,9 @@ The device uses a **1.75 mm wire structural frame**, pivot joints, and a compact
 ---
 
 ## Mechanical Diagram
+<img width="718" height="369" alt="image" src="https://github.com/user-attachments/assets/d474ed8b-e49f-48b2-ba90-57709980179e" />
 
-![Mechanism Diagram](images/mechanism.png)
+
 
 *Illustration showing the lifting mechanism.*
 
@@ -160,6 +161,7 @@ The model was created using fusion 360
 # Diagram Structure
 
 <img width="619" height="407" alt="image" src="https://github.com/user-attachments/assets/e0c9f46e-712d-4e62-8068-8f9522ac0b4d" />
+
 
 ## Top View
 
