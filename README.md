@@ -193,7 +193,16 @@ Possible upgrades:
 - swarm mechanical coordination
 
 ---
+## Electronics Overview
 
+Battery → ESP32-C3 → MOSFET → Motor
+
+- ESP32 controls the motor
+- MOSFET switches power to the motor
+- Battery powers the entire system
+ ## Reproducibility
+
+All CAD files, components, and instructions are included so the project can be rebuilt without additional assumptions.
 
 # Author
 
