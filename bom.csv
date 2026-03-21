@@ -1,22 +1,22 @@
-| Category           | Component        | Specification              | Purpose                                           | Cost  | Link                                                                                                                                                                                         |
-| ------------------ | ---------------- | -------------------------- | ------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Control & Logic    | Microcontroller  | Seeed Studio XIAO ESP32-C3 | Wi-Fi/Bluetooth microcontroller for swarm control | £6.30 | [https://www.aliexpress.com/item/1005008304166336.html](https://www.aliexpress.com/item/1005008304166336.html)                                                                               |
-| Control & Logic    | Motor Driver     | DRV8833 Mini               | Dual H-bridge motor controller                    | £3.55 | [https://www.aliexpress.com/item/1005010465908236.html](https://www.aliexpress.com/item/1005010465908236.html)                                                                               |
-| Control & Logic    | Capacitors       | 100uF Electrolytic         | Power stabilization                               | £4.49 | [https://www.amazon.co.uk/100uF-Radial-Aluminium-Electrolytic-Capacitor/dp/B07CZJC2GJ](https://www.amazon.co.uk/100uF-Radial-Aluminium-Electrolytic-Capacitor/dp/B07CZJC2GJ)                 |
-| Control & Logic    | MOSFET           | SI2302                     | Power switching                                   | £1.27 | [https://www.aliexpress.com/item/1005006983006733.html](https://www.aliexpress.com/item/1005006983006733.html)                                                                               |
-| Control & Logic    | Resistors        | 10kΩ Set                   | Signal control                                    | £5.49 | [https://www.amazon.co.uk/Innfeeltech-Tolerance-Resistor-Resistance-Experiments/dp/B0CL73CZPQ](https://www.amazon.co.uk/Innfeeltech-Tolerance-Resistor-Resistance-Experiments/dp/B0CL73CZPQ) |
-| Drive & Mechanics  | Lifting Motor    | 6mm Coreless Motor 1:136   | Lifting pivot mechanism                           | £7.19 | [https://www.amazon.co.uk/sourcingmap-1-5V-4-5V-40000RPM-Speed-Coreless/dp/B01480X6IK](https://www.amazon.co.uk/sourcingmap-1-5V-4-5V-40000RPM-Speed-Coreless/dp/B01480X6IK)                 |
-| Drive & Mechanics  | Vibration Motors | 10mm Coin Motor            | Movement via vibration                            | £0.50 | [https://www.aliexpress.com/item/1005006821274949.html](https://www.aliexpress.com/item/1005006821274949.html)                                                                               |
-| Drive & Mechanics  | Structural Wire  | 1.75mm Brass Rod           | Robot frame                                       | £3.89 | [https://www.amazon.co.uk/sourcing-map-Crafts-Helicopter-Airplane/dp/B0FBS13Q67](https://www.amazon.co.uk/sourcing-map-Crafts-Helicopter-Airplane/dp/B0FBS13Q67)                             |
-| Energy System      | Battery          | 3.7V 150mAh LiPo           | Main power source                                 | £7.49 | [https://www.amazon.co.uk/Rechargeable-Replacement-Connector-Aircraft-Accessory/dp/B0CRPF71VW](https://www.amazon.co.uk/Rechargeable-Replacement-Connector-Aircraft-Accessory/dp/B0CRPF71VW) |
-| Energy System      | Contact Pads     | Copper Foil                | Docking power transfer                            | £3.99 | [https://www.amazon.co.uk/kanta-Adhesive-Repellent-Deterrent-Barrier/dp/B0DHXBQ84S](https://www.amazon.co.uk/kanta-Adhesive-Repellent-Deterrent-Barrier/dp/B0DHXBQ84S)                       |
-| Energy System      | Magnets          | Neodymium N52 3x2mm        | Docking alignment                                 | £5.79 | [https://www.amazon.co.uk/Spider-Magnetics-Ltd-Neodymium-miniatures/dp/B00YYJDYRY](https://www.amazon.co.uk/Spider-Magnetics-Ltd-Neodymium-miniatures/dp/B00YYJDYRY)                         |
-| Energy System      | Pogo Pins        | Spring Pins                | Electrical docking contacts                       | £1.43 | [https://www.aliexpress.com/item/1005006003522295.html](https://www.aliexpress.com/item/1005006003522295.html)                                                                               |
-| Energy System      | Boost Converter  | MT3608                     | Voltage boost                                     | £3.79 | [https://www.ebay.co.uk/itm/314844711292](https://www.ebay.co.uk/itm/314844711292)                                                                                                           |
-| Navigation Sensors | Distance Sensor  | VL53L0X ToF                | Distance measurement                              | £5.90 | [https://www.ebay.co.uk/itm/196738317272](https://www.ebay.co.uk/itm/196738317272)                                                                                                           |
-| Navigation Sensors | IMU              | MPU6050                    | Orientation sensing                               | £7.77 | [https://www.ebay.co.uk/itm/315404237156](https://www.ebay.co.uk/itm/315404237156)                                                                                                           |
-| Wiring             | Schottky Diodes  | 1N4001                     | Reverse protection                                | £1.80 | [https://www.amazon.co.uk/DIODES-1N4001-Rectifier-Diode-DO-41/dp/B08TQQGWH3](https://www.amazon.co.uk/DIODES-1N4001-Rectifier-Diode-DO-41/dp/B08TQQGWH3)                                     |
-| Wiring             | Power Wire       | 26 AWG                     | Power wiring                                      | £2.03 | [https://www.aliexpress.com/item/1005009192506490.html](https://www.aliexpress.com/item/1005009192506490.html)                                                                               |
-| Wiring             | Signal Wire      | 30 AWG                     | Signal wiring                                     | £2.04 | [https://www.aliexpress.com/item/1005009192506490.html](https://www.aliexpress.com/item/1005009192506490.html)                                                                               |
-| Wiring             | Micro Wire       | 32 AWG                     | Fine electronics wiring                           | £0.79 | [https://www.aliexpress.com/item/1005004167126040.html](https://www.aliexpress.com/item/1005004167126040.html)                                                                               |
-| Wiring             | Conductive Glue  | Silver Conductive Glue     | Electrical bonding                                | £5.83 | [https://www.amazon.co.uk/Silver-Conductive-Repair-Electronic-Circuit/dp/B0D3F4T8QW](https://www.amazon.co.uk/Silver-Conductive-Repair-Electronic-Circuit/dp/B0D3F4T8QW)                     |
+Category,Part,Specification,Quantity,Price (GBP),Source
+Control & Logic,Seeed Studio XIAO ESP32-C3,Wi-Fi/Bluetooth microcontroller with LiPo charging,1,6.30,AliExpress
+Control & Logic,DRV8833 Motor Driver (Mini),Dual H-bridge motor driver,1,3.55,AliExpress
+Electronics,Capacitors,General purpose capacitors,1 set,4.49,Amazon
+Electronics,SI2302 MOSFET,Motor switching component,1,1.27,AliExpress
+Electronics,Resistors,General purpose resistors,1 set,5.49,Amazon
+Drive & Mechanics,6mm Coreless Motor + Gearbox (1:136),High torque lifting motor,1,7.19,Amazon
+Drive & Mechanics,10mm Coin Vibration Motors 3.7V,Movement / vibration,1,0.50,AliExpress
+Drive & Mechanics,1.75mm Brass Rod,Structural frame material,1,3.89,Amazon
+Energy,3.7V 150mAh LiPo Battery (20C),Power source,1,7.49,Amazon
+Energy,Copper Contact Pads,Power transfer contacts,1,3.99,Amazon
+Energy,Neodymium Magnets N52 (3x2mm),Docking mechanism,1 set,5.79,Amazon
+Energy,Pogo Pins,Electrical contact connectors,1 set,1.43,AliExpress
+Energy,MT3608 Boost Converter,Voltage step-up module,1,3.79,eBay
+Sensors,VL53L0X ToF Sensor,Distance measurement,1,5.90,eBay
+Sensors,MPU6050 IMU (6-Axis),Orientation sensing,1,7.77,eBay
+Wiring,Schottky Diodes,Protection components,1 set,1.80,Amazon
+Wiring,26 AWG Wire,Power wiring,1 set,2.03,AliExpress
+Wiring,30 AWG Wire,Signal wiring,1 set,2.04,AliExpress
+Wiring,32 AWG Wire,Fine wiring,1 set,0.79,AliExpress
+Wiring,Silver Conductive Glue,Electrical bonding,1,5.83,Amazon
+Total,, , ,81.33,
