@@ -203,6 +203,22 @@ Battery → ESP32-C3 → MOSFET → Motor
  ## Reproducibility
 
 All CAD files, components, and instructions are included so the project can be rebuilt without additional assumptions.
+# Frame Construction
+ Cut 1.75mm brass wire to required lengths
+ Bend using pliers according to CAD geometry
+ Solder joints to form rigid frame
+ Pivot Mechanism
+ Insert 2mm pivot pin
+ Attach front lifting arms
+ Ensure smooth rotation (low friction)
+ Motor Integration
+ Mount 6mm gear motor at rear
+ Connect motor shaft to linkage
+ Test rotation → verify lifting motion
+ Electronics Mounting
+ Place ESP32 on top frame
+ Attach motor driver near motor
+ Secure battery at center (balance)
 
 # Author
 
