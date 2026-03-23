@@ -234,6 +234,14 @@ All CAD files, components, and instructions are included so the project can be r
  ##  → MPU6050 (IMU)
 
 ## Shared GND between all components
+## The robot uses vibration-based locomotion:
+ Coin vibration motors create directional friction
+ Forward motion achieved via angled vibration
+ Turning achieved by activating one side only
+ Control Logic
+ ESP32 modulates vibration intensity
+ Short bursts = precise positioning
+ Continuous vibration = forward movement
 
 # Author
 
