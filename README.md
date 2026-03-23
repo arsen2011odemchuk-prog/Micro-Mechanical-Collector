@@ -220,6 +220,21 @@ All CAD files, components, and instructions are included so the project can be r
  Attach motor driver near motor
  Secure battery at center (balance)
 
+## Battery (3.7V LiPo)
+   ↓
+## Boost Converter (MT3608 → 5V)
+   ↓
+## ESP32-C3
+
+## ESP32 GPIO → DRV8833 Motor Driver
+## DRV8833 → Lifting Motor
+
+## ESP32 (I2C):
+ ##  → VL53L0X (Distance Sensor)
+ ##  → MPU6050 (IMU)
+
+## Shared GND between all components
+
 # Author
 
 **Arsen Odemchuk**
