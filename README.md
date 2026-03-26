@@ -242,6 +242,30 @@ All CAD files, components, and instructions are included so the project can be r
  ESP32 modulates vibration intensity
  Short bursts = precise positioning
  Continuous vibration = forward movement
+ ## Purpose
+
+The Micro Mechanical Collector is designed to collect small objects (e.g. particles, components, or materials) using a compact mechanical system.
+
+The goal is to explore small-scale collection mechanisms and controlled movement in a constrained space.
+## System Operation
+
+Input → Objects to be collected  
+Process → Mechanical collection mechanism  
+Output → Stored or moved objects
+
+Example flow:
+Object → Collector mechanism → Storage area
+## Mechanical Design
+
+The system uses a compact mechanism that:
+- captures objects
+- transports them
+- deposits them into a collection area
+
+Key design considerations:
+- size constraints
+- movement precision
+- mechanical efficiency
 
 # Author
 
